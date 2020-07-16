@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <h1 class="center">Noticias Unab</h1>
+    <div class="container center">
+        <a href="/blog/create" class="btn btn-success" role="button">Noticia Nueva</a>
+    </div>
+    <div class="container center">
+        <div class="row">
+        {% for blog in blogs %}
+            <div class="col-3 card separa">
+                <div class="card-body">
+                    <h3 class="card-title">{{blog.titulo}}</h3>
+                    <p class="card-text text">{{ blog.contenido|striptags }}</p>
+                    <a href="/blog/{{ blog.id }}/" class="card-link btn btn-primary">Detalle</a>
+                </div>
+            </div>    
+        {% endfor %}
+        </div>
+    </div>
+
+</div>
+{% endblock %}

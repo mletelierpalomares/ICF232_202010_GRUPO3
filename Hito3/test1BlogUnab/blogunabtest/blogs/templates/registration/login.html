@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container caja margen1">
+    <h2>Login</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+</div> 
+
+{% endblock %}
+
+
