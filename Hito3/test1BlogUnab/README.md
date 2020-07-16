@@ -4,13 +4,17 @@ _Aqui se encontraran las instrucciones para poder ingresar al sistema del Blog U
 
 ## Comenzando 🚀
 * **https://github.com/mletelierpalomares/ICF232_202010_GRUPO3* **
-* **Mediante este link puede hacer una copia del repositoria donde estan contenidas los 3 Hitos del proyecto de Ing de SW1* **
+* **Mediante este link puede hacer una copia del repositoria donde estan contenidas los * **3 Hitos del proyecto de Ing de SW1* **
+
 
 ### Pre-requisitos 📋
 
 * **Python 3.x**
 * **Django3.0**
 * **Github**
+* **virtualenv venv**
+* **venv/Scripts/activate.bat**
+* **pip3 install -r requirements.txt**
 
 ### Credenciales 📋
 * **Nombre User: ProfePablo**
