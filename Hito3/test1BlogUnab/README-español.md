@@ -3,26 +3,27 @@
 _Aqui se encontraran las instrucciones para poder ingresar al sistema del Blog Unab_
 
 ## Comenzando 🚀
-_https://github.com/mletelierpalomares/ICF232_202010_GRUPO3_
-_Mediante este link puede hacer una copia del repositoria donde estan contenidas los 3 Hitos del proyecto de Ing de SW1_
+* **https://github.com/mletelierpalomares/ICF232_202010_GRUPO3* **
+* **Mediante este link puede hacer una copia del repositoria donde estan contenidas los 3 Hitos del proyecto de Ing de SW1* **
 
 ### Pre-requisitos 📋
 
-_Python 3.x_
-_Django3.0_
-_Github_
+* **Python 3.x**
+* **Django3.0**
+* **Github**
 
 ### Credenciales 📋
-_- Nombre User: ProfePablo_
-_- Contraseña: holahola1234_
+* **Nombre User: ProfePablo**
+* **Contraseña: holahola1234**
 
 ### Puesta en marcha del sistema 🔧
-_Para iniciar el sistema ingresar al directorio del proyecto en django, usando la terminal.
-1- Dentro del directorio raiz ingresar al entorno virtual venv\Scripts\activate.bat
-2- Ingresar al directorio blogunabtest
-3- Ingresar el comando: python manage.py runserver
-4- Copiar el Url en el browser  http://127.0.0.1:8000/
-5- Para acceder a la vista blogs, debe identificarce con las credenciales entregadas anteriormente._
+_Para iniciar el sistema ingresar al directorio del proyecto en django, usando la terminal._
+
+* **1- Dentro del directorio raiz ingresar al entorno virtual venv\Scripts\activate.bat**
+* **2- Ingresar al directorio blogunabtest**
+* **3- Ingresar el comando: python manage.py runserver**
+* **4- Copiar el Url en el browser  http://127.0.0.1:8000/**
+* **5- Para acceder a la vista blogs, debe identificarce con las credenciales entregadas anteriormente.**
 
 
 ### Prubas de caso de uso ⌨️
