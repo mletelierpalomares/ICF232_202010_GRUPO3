@@ -16,6 +16,12 @@ _Aqui se encontraran las instrucciones para poder ingresar al sistema del Blog U
 * **venv/Scripts/activate.bat**
 * **pip3 install -r requirements.txt**
 
+_Antes de Correr el servidor_
+
+* **python manage.py makemigrations**
+* **python manage.py migrate**
+* **python manage.py runserver**
+
 ### Credenciales 📋
 * **Nombre User: ProfePablo**
 * **Contraseña: holahola1234**
