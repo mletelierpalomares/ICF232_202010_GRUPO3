@@ -24,8 +24,8 @@ _Antes de Correr el servidor_
 * **cerrar el servidor, correr el servidor y entrar con las credenciales para que cargue el contenido**
 
 ### Credenciales 📋
-* **Nombre User: ProfePablo**
-* **Contraseña: holahola1234**
+* **Username: ProfePablo**
+* **Password: holahola1234**
 
 ### Puesta en marcha del sistema 🔧
 _Para iniciar el sistema ingresar al directorio del proyecto en django, usando la terminal._
