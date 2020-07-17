@@ -21,6 +21,7 @@ _Antes de Correr el servidor_
 * **python manage.py makemigrations**
 * **python manage.py migrate**
 * **python manage.py runserver**
+* **cerrar el servidor, correr el servidor y entrar con las credenciales para que cargue el contenido**
 
 ### Credenciales 📋
 * **Nombre User: ProfePablo**
